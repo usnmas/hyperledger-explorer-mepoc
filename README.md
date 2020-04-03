@@ -13,18 +13,21 @@ Hyperledger Explorer Use Case
 
 ## Installation Guide 
 
-`**jq install**`
+**`jq install`**
 
 $ sudo apt-get update -y
+
 $ sudo apt-get install -y jq
 
 
-`Git Clone`
+
+**`Git Clone`**
 
 ~$ git clone https://github.com/hyperledger/blockchain-explorer.git
 
 
-`PostgreSQL Install`
+
+**`PostgreSQL Install`**
 
 ~$ sudo apt-get update
 
