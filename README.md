@@ -13,10 +13,9 @@ Hyperledger Explorer Use Case
 
 ## Installation Guide 
 
-`jq install`
+`**jq install**`
 
 $ sudo apt-get update -y
-
 $ sudo apt-get install -y jq
 
 
