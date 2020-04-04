@@ -59,7 +59,7 @@ Certificate Path & grpc (rather than grpcs) \
 ~/blockchain-explorer/app/test$ cd ../../client \
 ~/blockchain-explorer/client$ npm install \
 ~/blockchain-explorer/client$ npm run test:ci -- -u --coverage (Error : OK) \
-~/blockchain-explorer/client$ npm run build \
+~/blockchain-explorer/client$ npm run build
 
 
 **`Run & Stop Hyperledger Explorer`**
