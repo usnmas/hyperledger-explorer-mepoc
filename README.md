@@ -1,6 +1,6 @@
-# Hyperledger Explorer
+# Hyperledger Explorer Use Case
 
-Hyperledger Explorer Use Case 
+Hyperledger Explorer use case for PoC is presented. All the binaries and libraries are to be downloaded from Hyperledger Explorere official web site. In this repository, only customized configuration files exist. 
 
 
 ## Prerequisites
@@ -73,7 +73,7 @@ Certificate Path & grpc (rather than grpcs) \
 http://host:8080
 
 
-## Reference 
+## References 
 
 - Reference (Install Guide & Sources) : [Hyperledger Explorer](https://github.com/hyperledger/blockchain-explorer)
 - Git Repository (Clone) : [Hyperledger Git Repository](https://github.com/hyperledger/blockchain-explorer.git)
