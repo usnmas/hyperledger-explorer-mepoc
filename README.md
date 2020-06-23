@@ -75,6 +75,5 @@ http://host:8080
 
 ## Reference 
 
-> Reference (Install Guide & Sources) : [Hyperledger Explorer](https://github.com/hyperledger/blockchain-explorer)
-
-> Git Repository (Clone) : [Hyperledger Git Repository](https://github.com/hyperledger/blockchain-explorer.git)
+- Reference (Install Guide & Sources) : [Hyperledger Explorer](https://github.com/hyperledger/blockchain-explorer)
+- Git Repository (Clone) : [Hyperledger Git Repository](https://github.com/hyperledger/blockchain-explorer.git)
